@@ -1,0 +1,11 @@
+{
+  "users": {
+    "1@1.com": {
+      "name": "1",
+      "password": "1",
+      "sessionActive": true
+    }
+  },
+  "listings": {},
+  "bookings": {}
+}

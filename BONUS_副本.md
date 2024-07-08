@@ -1,0 +1,7 @@
+1.We tried to add time interval to the landing page, which allows multiple users to update the latest listings in real time while browsing the Air brb homepage.
+2.On the search page, we have set the search rate to 1000+, which means that if you move the slider to the far right, you will find all listings above $1,000 per night, and the rate display will change to 1000+.
+3.We have imposed a restriction on the email format of the login page and the registration page, which can only be successfully logged in or registered if it is satisfied.
+4.We make a judgement call on the date of all date checkboxes and if your start date is later than your end date it cannot be submitted.
+5.Under the booking management page, users can clearly see the status of their application, i.e. whether it is accepted, cancelled or waiting for confirmation from the owner. And you can easily manage your bookings.
+6.On the Add available range page, you can add multiple time ranges at the same time. And if you regret it, you can delete an individual piece of data before submitting it, and it won't affect your final submission!
+7.After searching for the room you want, if you click on booking, you will be redirected to another booking details page, where you can move your mouse over the Average review rating and you will see the distribution of all the user ratings, and by clicking on a rating you will see all the ratings for that rating.
